@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:darkgray;
+    color: rgba(255, 255, 255, 0.642);
+    text-align: center;
+    background-image: url(https://th.bing.com/th/id/R.d8d0a987a44cbf759b620b8f67cd55b0?rik=wckeTLl8YDUSyQ&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fHD-Download-Night-Sky.jpg&ehk=3F5iaBYX3mAYMScLg2XOyPGBXLhF3%2f0ruGcXLcot3aE%3d&risl=1&pid=ImgRaw&r=0);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+input {
+    width: 80px;
+    height: 60px;
+    font-size: 40px;
+    border-radius: 15px;
+    margin: 10px;
+    text-align: center;
+    background-color: ivory;
+    color: black;
+    border-style: none;
+}
+
+.btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
